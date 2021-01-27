@@ -1,4 +1,7 @@
 Changed Orginal Source Code from MS Learn Site
+Orginal Source Code Location : https://github.com/MicrosoftDocs/mslearn-apim-and-functions.git
+All credits goes to that author.
+Upgraded to dotnet core 3.1 and azure func 3
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
